@@ -1,6 +1,6 @@
 streamlit
 joblib
 pandas
-scikit-learn = 1.5.0
+scikit-learn == 1.5.0
 tensorflow
 matplotlib
